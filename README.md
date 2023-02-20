@@ -4,4 +4,4 @@ Wallet library from [Ordinals Wallet](https://ordinalswallet.com) that lets you 
 
 ## Development
 
-This library is currently under development and this is currently just a stub to reserve namespace. Release version 1.0 coming soon!
+This library is currently under development and is just a stub to reserve namespace. Release version 1.0 coming soon!
