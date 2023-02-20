@@ -4,6 +4,7 @@ version = "0.0.1"
 edition = "2021"
 description = "Ordinals Wallet"
 license = "MIT"
+repository = "https://github.com/ordinals-wallet/wallet"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
